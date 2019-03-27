@@ -2,7 +2,6 @@ import sys
 import os
 
 print("HEllOO")
-str name
+str name;
 name=input("Cual es tu nombre")
 print(name)
-
